@@ -15,8 +15,7 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 - Mail : malallai@student.42.fr
 - LinkeDin : [/malallai](https://linkedin.com/in/malallai)
 
-[![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/mentor6561)  
-
+[![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg?style=for-the-badge)](https://www.paypal.com/mentor6561)
 
 <!--
 **malallai/malallai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
