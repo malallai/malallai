@@ -8,8 +8,8 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 
 #### 🔭 Projects
 - I'm currently apprentice in a french Startup called [Cobbaï](https://cobbai.com).
-- I'm a volunter SysAdm and Java Developer for a french association called [Aldostra](https://aldostra.fr), that promote online game such as an French Harry Potter RolePlay server based on Minecraft.
-- I've been a volunter Java Developer on a Minecraft project called PoudlardRP during 3 years.
+- I'm a volunteer SysAdm and Java Developer for a french association called [Aldostra](https://aldostra.fr), that promote online game such as an French Harry Potter RolePlay server based on Minecraft.
+- I've been a volunteer Java Developer on a Minecraft project called PoudlardRP during 3 years.
 
 #### 📫 How to reach me:
 - Mail : malallai@student.42.fr
