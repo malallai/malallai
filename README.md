@@ -13,7 +13,7 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 
 #### 📫 How to reach me:
 - Mail : malallai@student.42.fr
-- LinkeDin : [/malallai](https://linkedin.com/in/malallai)
+- LinkedIn : [/malallai](https://linkedin.com/in/malallai)
 
 [![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://www.paypal.com/mentor6561)
 [![Portfolio](https://img.shields.io/badge/Website-%F0%9F%93%93-orange.svg?style=for-the-badge)](https://malallai.fr)
