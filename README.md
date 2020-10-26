@@ -7,7 +7,7 @@ I mostly use Java and Ruby on Rails. But I know C, Python, JS, PHP too.. And mor
 Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 
 #### 🔭 Projects
-- I was apprentice in a french Startup called [Cobbaï](https://cobbai.com) between April 2020 and Septembre 2020.
+- I was apprentice in a french Startup called [Cobbaï](https://cobbai.com) between April 2020 and September 2020.
 - I'm a volunteer SysAdm and Java Developer for a french association called [Aldostra](https://aldostra.fr), that promote online game such as a French Harry Potter RolePlay server based on Minecraft.
 - I've been a volunteer Java Developer on a Minecraft project called PoudlardRP during 3 years.
 
@@ -20,6 +20,11 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 
 [![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://www.paypal.com/mentor6561)
 [![Portfolio](https://img.shields.io/badge/Website-%F0%9F%93%93-lightgrey.svg?style=for-the-badge)](https://malallai.fr)
+
+# 
+
+[![malallai's github stats](https://github-readme-stats.vercel.app/api?username=malallai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/malallai/)
+[![malallai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malallai&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/malallai/)
 
 <!--
 **malallai/malallai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
