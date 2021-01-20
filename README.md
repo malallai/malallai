@@ -7,12 +7,16 @@ I mostly use Java and Ruby on Rails. But I know C, Python, JS, PHP too.. And mor
 Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 
 #### 🔭 Projects
+- Since January 2021, I am the president of a French association called [La Calèche](https://lacaleche.cc), our objectives are to promote the IT and web professions.
+- Since November 2020, I am on a permanent contract at [42 Network](https://www.42.fr/42-network/) as a Rails developer.
 - I was apprentice in a french Startup called [Cobbaï](https://cobbai.com) between April 2020 and September 2020.
 - I'm a volunteer SysAdm and Java Developer for a french association called [Aldostra](https://aldostra.fr), that promote online game such as a French Harry Potter RolePlay server based on Minecraft.
 - I've been a volunteer Java Developer on a Minecraft project called PoudlardRP for 3 years.
 
 [![Aldostra](https://img.shields.io/badge/Aldostra-✨-blue.svg?style=for-the-badge)](https://aldostra.fr)
 [![Cobbaï](https://img.shields.io/badge/Cobbaï-🐹-orange.svg?style=for-the-badge)](https://cobbai.com)
+[![42 Network](https://img.shields.io/badge/42%20Network-%F0%9F%92%BB-lightgrey.svg?style=for-the-badge)](https://42.fr)
+[![La Calèche](https://img.shields.io/badge/La%20Cal%C3%A8che-%F0%9F%90%8E-white.svg?style=for-the-badge)](https://42.fr)
 
 #### 📫 How to reach me:
 - Mail : malallai@student.42.fr
