@@ -16,7 +16,7 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 [![Aldostra](https://img.shields.io/badge/Aldostra-✨-blue.svg?style=for-the-badge)](https://aldostra.fr)
 [![Cobbaï](https://img.shields.io/badge/Cobbaï-🐹-orange.svg?style=for-the-badge)](https://cobbai.com)
 [![42 Network](https://img.shields.io/badge/42%20Network-%F0%9F%92%BB-lightgrey.svg?style=for-the-badge)](https://42.fr)
-[![La Calèche](https://img.shields.io/badge/La%20Cal%C3%A8che-%F0%9F%90%8E-white.svg?style=for-the-badge)](https://42.fr)
+[![La Calèche](https://img.shields.io/badge/La%20Cal%C3%A8che-%F0%9F%90%8E-white.svg?style=for-the-badge)](https://lacaleche.cc)
 
 #### 📫 How to reach me:
 - Mail : malallai@student.42.fr
