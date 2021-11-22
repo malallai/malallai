@@ -6,6 +6,8 @@ I'm student at 42, in Paris (The only true 42).
 I mostly use Java and Ruby on Rails. But I know C, Python, JS, PHP too.. And more of them
 Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 
+![malallai's stats](https://badge42.herokuapp.com/api/stats/malallai)
+
 #### 🔭 Projects
 - Since January 2021, I am the president of a French association called [La Calèche](https://lacaleche.cc), our objectives are to promote the IT and web professions.
 - Since November 2020, I am on a permanent contract at [42 Network](https://www.42.fr/42-network/) as a Rails developer.
