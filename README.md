@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Malo%20ALLAIN%20%F0%9F%91%8B&fontSize=42&fontAlignY=40&fontColor=FFFFFF&desc=Developer%20@42%20|%20President+of+La+Cal%C3%A8che&descAlignY=51&descAlign=62" alt="header" width="100%" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a061d1,100:2f1a45&height=200&text=Hi%20there,%20I%27m%20Malo%20ALLAIN%20%F0%9F%91%8B&fontSize=42&fontAlignY=40&fontColor=FFFFFF&desc=Developer%20@42%20|%20President+of+La+Cal%C3%A8che&descAlignY=51&descAlign=62" alt="header" width="100%" />  
 
 I'm a **french** developer :fr: !  
 I work at 42 Network as Ruby on Rails developer, in Paris.
