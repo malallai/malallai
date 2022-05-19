@@ -24,15 +24,6 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 
 ![Java](https://img.shields.io/badge/Java-d91419?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![MariaDb](https://img.shields.io/badge/MariaDb-003241?style=for-the-badge&logo=mariadb&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-7eb215?style=for-the-badge&logo=gradle&logoColor=white) ![Git](https://img.shields.io/badge/Git-d74a34?style=for-the-badge&logo=git&logoColor=white) 
 
-#### 📫 How to reach me:
-- Mail : malallai@student.42.fr
-- LinkedIn : [in/malallai](https://linkedin.com/in/malallai)
-
-[![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://www.paypal.com/mentor6561)
-[![Portfolio](https://img.shields.io/badge/Website%20(WIP)-%F0%9F%93%93-lightgrey.svg?style=for-the-badge)](https://malallai.fr)
-
-# 
-
 ### 🛠️ Some of my 42 projects results:
 
 > ## **Hypertube**
@@ -49,6 +40,15 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 > >
 > code by ourselves one of the most used commands: ls  
 > [![malallai's 42 ft_ls Score](https://badge42.vercel.app/api/v2/cl3d4hzt5010209mp7emhjc8q/project/2025974)](https://github.com/JaeSeoKim/badge42)
+
+# 
+
+#### 📫 How to reach me:
+- Mail : malallai@student.42.fr
+- LinkedIn : [in/malallai](https://linkedin.com/in/malallai)
+
+[![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://www.paypal.com/mentor6561)
+[![Portfolio](https://img.shields.io/badge/Website%20(WIP)-%F0%9F%93%93-lightgrey.svg?style=for-the-badge)](https://malallai.fr)
 
 # 
 
