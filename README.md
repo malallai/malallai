@@ -6,7 +6,7 @@ I'm student at 42, in Paris (The only true 42).
 I mostly use Java and Ruby on Rails. But I know C, Python, JS, PHP too.. And more of them
 Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 
-![malallai's stats](https://badge42.herokuapp.com/api/stats/malallai)
+[![malallai's 42 stats](https://badge42.vercel.app/api/v2/cl3d4hzt5010209mp7emhjc8q/stats?cursusId=21&coalitionId=3)](https://github.com/JaeSeoKim/badge42)
 
 #### 🔭 Projects
 - Since January 2021, I am the president of a French association called [La Calèche](https://lacaleche.cc), our objectives are to promote the IT and web professions.
