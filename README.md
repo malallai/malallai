@@ -52,9 +52,8 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 
 # 
 
-[![malallai's github stats](https://github-readme-stats.vercel.app/api?username=malallai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/malallai/)
-[![malallai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malallai&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/malallai/)
-
+| [![malallai's github stats](https://github-readme-stats.vercel.app/api?username=malallai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/malallai/) | [![malallai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malallai&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/malallai/) |
+|---|---|
 <!--
 **malallai/malallai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
