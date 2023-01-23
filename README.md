@@ -1,18 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a061d1,100:2f1a45&height=200&text=Hi%20there,%20I%27m%20Malo%20ALLAIN%20%F0%9F%91%8B&fontSize=42&fontAlignY=40&fontColor=FFFFFF&desc=Developer%20@42%20|%20President+of+La+Cal%C3%A8che&descAlignY=51&descAlign=62" alt="header" width="100%" />  
 
 I'm a **french** developer :fr: !  
-I work at 42 Network as Ruby on Rails developer, in Paris.
+I work at 42 as Ruby on Rails developer, in Paris.
 
 I mostly use Java and Ruby on Rails. But I know C, Python, JS, PHP too.. And more of them
 Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 
-[![malallai's 42 stats](https://badge42.vercel.app/api/v2/cl3d4hzt5010209mp7emhjc8q/stats?cursusId=21&coalitionId=3)](https://github.com/JaeSeoKim/badge42)
+[![malallai's 42 stats](https://badge42.vercel.app/api/v2/cl3d4hzt5010209mp7emhjc8q/stats?cursusId=21&coalitionId=3)](https://github.com/JaeSeoKim/badge42)  
 
 #### 🔭 Projects
-- Since January 2021, I am the president of a French association called [La Calèche](https://lacaleche.cc), our objectives are to promote the IT and web professions.
+- Since January 2021, I am the president of a French association called [La Calèche](https://lacaleche.cc). We are currently working on the creation of 2 games.
 - Since November 2020, I am on a permanent contract at [42 Network](https://www.42.fr/42-network/) as a Rails developer.
 - I was apprentice in a french Startup called [Cobbaï](https://cobbai.com) between April 2020 and September 2020.
-- I'm a volunteer SysAdm and Java Developer for a french association called [Aldostra](https://aldostra.fr), that promote online game such as a French Harry Potter RolePlay server based on Minecraft.
+- I've been a volunteer for 3 years as a SysAdm and Java Developer for a french association called [Aldostra](https://aldostra.fr), that promote online game such as a French Harry Potter RolePlay server based on Minecraft.
 - I've been a volunteer Java Developer on a Minecraft project called PoudlardRP for 3 years.
 
 [![Aldostra](https://img.shields.io/badge/Aldostra-✨-blue.svg?style=for-the-badge)](https://aldostra.fr)
@@ -44,7 +44,7 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 # 
 
 #### 📫 How to reach me:
-- Mail : malallai@student.42.fr
+- Mail : malo@lacaleche.cc
 - LinkedIn : [in/malallai](https://linkedin.com/in/malallai)
 
 [![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://www.paypal.com/mentor6561)
