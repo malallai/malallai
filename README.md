@@ -1,21 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a061d1,100:2f1a45&height=200&text=Hi%20there,%20I%27m%20Malo%20ALLAIN%20%F0%9F%91%8B&fontSize=42&fontAlignY=40&fontColor=FFFFFF&desc=Developer%20@42%20|%20President+of+La+Cal%C3%A8che&descAlignY=51&descAlign=62" alt="header" width="100%" />  
 
 I'm a **french** developer :fr: !  
-I work at 42 as Ruby on Rails developer, in Paris.
+I work at 42 as a Fullstack developer, in Paris.
 
 I mostly use Java and Ruby on Rails. But I know C, Python, JS, PHP too.. And more of them
 Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
-
+<!-- Need to self host badge42 or to wait for the return of JaeSeoKim
 [![malallai's 42 stats](https://badge42.vercel.app/api/v2/cl3d4hzt5010209mp7emhjc8q/stats?cursusId=21&coalitionId=3)](https://github.com/JaeSeoKim/badge42)  
+--->
 
 #### 🔭 Projects
 - Since January 2021, I am the president of a French association called [La Calèche](https://lacaleche.cc). We are currently working on the creation of 2 games.
-- Since November 2020, I am on a permanent contract at [42 Network](https://www.42.fr/42-network/) as a Rails developer.
+- Since November 2020, I am on a permanent contract at [42 Network](https://www.42.fr/42-network/) as a Fullstack developer.
+
 - I was apprentice in a french Startup called [Cobbaï](https://cobbai.com) between April 2020 and September 2020.
-- I've been a volunteer for 3 years as a SysAdm and Java Developer for a french association called [Aldostra](https://aldostra.fr), that promote online game such as a French Harry Potter RolePlay server based on Minecraft.
+- I've been a volunteer for 3 years as a SysAdm and Java Developer for a french association called Aldostra (website down), that promote online game such as a French Harry Potter RolePlay server based on Minecraft.
 - I've been a volunteer Java Developer on a Minecraft project called PoudlardRP for 3 years.
 
-[![Aldostra](https://img.shields.io/badge/Aldostra-✨-blue.svg?style=for-the-badge)](https://aldostra.fr)
 [![Cobbaï](https://img.shields.io/badge/Cobbaï-🐹-orange.svg?style=for-the-badge)](https://cobbai.com)
 [![42 Network](https://img.shields.io/badge/42%20Network-%F0%9F%92%BB-lightgrey.svg?style=for-the-badge)](https://42.fr)
 [![La Calèche](https://img.shields.io/badge/La%20Cal%C3%A8che-%F0%9F%90%8E-white.svg?style=for-the-badge)](https://lacaleche.cc)
@@ -24,6 +25,7 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 
 ![Java](https://img.shields.io/badge/Java-d91419?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![MariaDb](https://img.shields.io/badge/MariaDb-003241?style=for-the-badge&logo=mariadb&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-7eb215?style=for-the-badge&logo=gradle&logoColor=white) ![Git](https://img.shields.io/badge/Git-d74a34?style=for-the-badge&logo=git&logoColor=white) 
 
+<!-- Need to self host badge42 or to wait for the return of JaeSeoKim
 ### 🛠️ Some of my 42 projects results:
 
 > ## **Hypertube**
@@ -40,6 +42,7 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 > >
 > code by ourselves one of the most used commands: ls  
 > [![malallai's 42 ft_ls Score](https://badge42.vercel.app/api/v2/cl3d4hzt5010209mp7emhjc8q/project/2025974)](https://github.com/JaeSeoKim/badge42)
+--->
 
 # 
 
@@ -48,7 +51,7 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 - LinkedIn : [in/malallai](https://linkedin.com/in/malallai)
 
 [![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://www.paypal.com/mentor6561)
-[![Portfolio](https://img.shields.io/badge/Website%20(WIP)-%F0%9F%93%93-lightgrey.svg?style=for-the-badge)](https://malallai.fr)
+[![Portfolio (Down, new version WIP)](https://img.shields.io/badge/Website%20(WIP)-%F0%9F%93%93-lightgrey.svg?style=for-the-badge)](https://malallai.fr)
 
 # 
 
