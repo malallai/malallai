@@ -51,7 +51,7 @@ Im also a self-taught SysAdm. I'm friendly with SQL, Linux etc..
 - LinkedIn : [in/malallai](https://linkedin.com/in/malallai)
 
 [![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://www.paypal.com/mentor6561)
-[![Portfolio (Down, new version WIP)](https://img.shields.io/badge/Website%20(WIP)-%F0%9F%93%93-lightgrey.svg?style=for-the-badge)](https://malallai.fr)
+[![Portfolio (Down, new version WIP)](https://img.shields.io/badge/Website%20(Down%20new%20version%20WIP)-%F0%9F%93%93-lightgrey.svg?style=for-the-badge)](https://malallai.fr)
 
 # 
 
